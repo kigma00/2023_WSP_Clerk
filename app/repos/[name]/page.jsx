@@ -1,5 +1,5 @@
 import Repo from '@/components/Repo'
-import RepoDirs from '@/components/repoDirs'
+import RepoDirs from '@/components/RepoDirs'
 import Link from 'next/link'
 import React from 'react'
 
